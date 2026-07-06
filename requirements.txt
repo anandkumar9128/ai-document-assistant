@@ -15,7 +15,7 @@ colorama==0.4.6
 dataclasses-json==0.6.7
 distro==1.9.0
 exceptiongroup==1.2.2
-faiss-cpu==1.9.0.post1
+faiss-cpu
 frozenlist==1.5.0
 gitdb==4.0.11
 GitPython==3.1.43
